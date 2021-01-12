@@ -512,8 +512,7 @@ def pilih_super():
 	print "  \033[1;91m«---•◈•---This Tool Maked by  BLND--•◈•---»" #SHEX_CRACKER
 	print '\033[1;93m✅Bo Garanawa Ama bka ➡ Ctrl+Z.↩ bo Dast pe krdnawa am leda (python2 SHEX.BLND.py)↩\033[1;97m....'
 	print"\033[1;91mHamw Hackbwakan/\x1b[1;95mHamwChekpointakan \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
-	print """
-_____________1¶¶_________¶¶¶1¶¶¶___________ 
+	print "" 
 _________¶¶¶111¶¶___________¶¶111¶¶¶¶________ 
 ______¶¶¶¶1111¶¶¶____________¶¶¶1111¶¶¶1_____ 
 _____¶¶¶1111¶¶¶¶_____________¶¶¶¶11111¶¶¶____ 
